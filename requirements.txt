@@ -4,8 +4,9 @@ langchain==0.3.7
 langchain-community==0.3.7
 langchain-core==0.3.7
 langchain-openai==0.1.7
-numpy>=2.1.0
-pandas==2.2.2
+numpy==1.26.4
+pandas==2.2.1
+
 scikit-learn==1.5.1
 scipy==1.14.1
 matplotlib==3.9.2
